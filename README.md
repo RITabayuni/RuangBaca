@@ -1,4 +1,4 @@
-# 📚 Digital Library - Laravel Project
+# 📚 RuangBaca - Laravel Project
 
 <p align="center">
   <a href="https://laravel.com" target="_blank">
